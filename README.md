@@ -1,11 +1,12 @@
 Sistema Bancário
-O grupo deve desenvolver par/ialmente o que seria um sistema de um ban/o digital
-que pro/essa transações finan/eiras. Quando uma transação é realizada, o sistema
-deve enviar uma notificação para o cliente. Essa notifi/ação pode ser por SMS ou
-Email.
+sistema de um banco digital que processa transações financeiras. Quando uma transação é realizada, o sistema
 Tarefas:
 · Abrir Conta
 · Consultar Saldo
 · Realizar Depósito
 · Realizar Saque
-· Realizar Transferên/ia
+· Realizar Transferência
+
+Os teste devem estar numa pasta primeiro com o nome \\testes e foi feita em PHPUnit
+Fui utilizado o PHPStorm 2023.1.3 para o desenvolvimento do sistema e utilizado o MySql para a base de dados.
+
